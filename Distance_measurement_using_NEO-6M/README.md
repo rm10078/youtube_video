@@ -1,10 +1,4 @@
+## Circuit Diagram
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rm10078/youtube_video/blob/main/Distance_measurement_using_NEO-6M/diagram.png?raw=true)
 
